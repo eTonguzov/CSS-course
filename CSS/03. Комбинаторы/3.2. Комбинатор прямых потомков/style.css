@@ -1,3 +1,8 @@
 div > p {
   background-color: cyan;
 }
+.heading > #myHeading{
+  background-color: bisque;
+  color: rgb(43, 58, 53);
+  font-size: 25px;
+}

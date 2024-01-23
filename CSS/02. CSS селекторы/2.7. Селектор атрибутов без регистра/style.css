@@ -1,3 +1,4 @@
-[data-category="main" i] {
+[data-category="main" i] { /*добавление i выключает чувствительность к регистру
+  то есть будет работать и для Main и для main*/
   background-color: lightsalmon;
 }

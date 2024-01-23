@@ -1,3 +1,8 @@
-.greet + p {
+.greet + p { /*Комбинатор соседнего родства*/
   background-color: burlywood;
+}
+h1 + h2{
+  color: rgb(188, 56, 56);
+  font-size: 20px;
+  
 }

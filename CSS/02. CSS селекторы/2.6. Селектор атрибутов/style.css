@@ -1,3 +1,9 @@
 [data-category="main"] {
   background-color: lightsalmon;
 }
+[heading-type="primary"]{
+  color:aqua;
+}
+[heading-type="secondary"]{
+  color: rgb(42, 210, 42);
+}
