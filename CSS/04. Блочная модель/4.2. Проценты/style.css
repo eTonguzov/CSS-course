@@ -1,7 +1,15 @@
 .container {
   border: 2px solid blue;
+  font-size: 0;
 }
 
 .container img {
-  width: 30%;
+  width: calc(100%/3);
+
+}
+.container p{
+  width: 25%;
+  font-size: initial;
+  display: inline-block;
+  background-color: blueviolet;
 }

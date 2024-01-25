@@ -22,3 +22,14 @@ button {
   height: 35px;
   margin-top: 20px;
 }
+
+.block-input{
+ display: block;
+ background-color: rgb(103, 187, 187);
+}
+
+.div-element{
+  width: 100px;
+  height: 100px;
+  border: 10px solid lightgreen;
+}
